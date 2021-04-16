@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\tramp\source\repos\Tables@1\Tables@1\Source.cpp(2,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\tramp\source\repos\Tables@1\Tables@1\Source.cpp(3,6): warning C4101: TableType: неиспользованная локальная переменная
+  Tables@1.vcxproj -> C:\Users\tramp\source\repos\Tables@1\Debug\Tables@1.exe
